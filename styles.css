@@ -144,7 +144,7 @@ input[type=search]{
 }
 
 button{
-float:left;
+float:right;
 color:#F2F2F2;
 border:3px solid #eb5428;
 cursor:pointer;
